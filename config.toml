@@ -1,4 +1,4 @@
-baseurl = "localhost:1313"
+baseurl = "felixledem.com"
 title = "Felix Le Dem"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
