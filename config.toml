@@ -12,7 +12,7 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "default"
   description = "Describe your website"
-  copyright = "&copy;2018 Felix Le Dem"
+  copyright = "&copy;2018 Ravel Software LLC"
   sidebarAbout = [
     "I am the principal engineer at Ravel Software. I work with businesses to create value using technology.",
     "Originally from France, currently based in Washington D.C."
