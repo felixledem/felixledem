@@ -3,7 +3,7 @@ date = "2016-11-05T21:05:33+05:30"
 title = "Why me?"
 +++
 
-Great Engineering is born out of three things: creative problem solving, experienced decision making, and good team communication. I seek to bring all three to the table.
+Great Engineering is born out of three things: creative problem solving, experienced decision making, and good communication. I seek to bring all three to the table.
 
 ##### Creative Problem Solving
 The software world is constantly evolving. Every year, countless new languages, frameworks, libraries, architectural paradigms, security concerns, and saas businesses shift the technological landscape. Staying informed on the state of the art enables businesses to combine technologies in novel, value-creating ways.

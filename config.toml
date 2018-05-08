@@ -1,4 +1,4 @@
-baseurl = "http://www.felixledem.com/"
+baseurl = "https://www.felixledem.com/"
 title = "Felix Le Dem"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
