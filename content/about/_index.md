@@ -4,10 +4,9 @@ title = "About"
 +++
 
 
-##### What am I currently working on
-Growing MainVest currently takes up most of my time. 
+##### What am I working on
+I'm working on growing the company I started, <a href="mainvest.com">MainVest</a>. This takes up most of my time
 
 
 ##### Am I available for work outside of MainVest?
-Yes. I'm particularly interested in helping non-profits build things on the internet. However, if you're a for-profit and you're working on something cool/interesting, I may be able to help 4-5 days/month.
-
+Yes, for a couple days / month. I'm particularly interested in helping non-profits build things on the internet.
