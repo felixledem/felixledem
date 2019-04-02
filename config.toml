@@ -11,11 +11,10 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "default"
-  description = "Describe your website"
+  description = "Just a landing page for people who google my name"
   copyright = "&copy;2018 Ravel Software LLC"
   sidebarAbout = [
-    "I am the principal engineer at Ravel Software. I work with businesses to create value using technology.",
-    "Originally from France, currently based in Washington D.C."
+    "Currently building a company that builds other companies.",
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
