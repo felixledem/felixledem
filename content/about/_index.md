@@ -5,7 +5,7 @@ title = "About"
 
 
 ##### What am I working on
-I'm working on growing the company I started, <a href="mainvest.com">MainVest</a>. This takes up most of my time
+I'm working on growing the company I started, <a href="https://mainvest.com">MainVest</a>. This takes up most of my time
 
 
 ##### Am I available for work outside of MainVest?
