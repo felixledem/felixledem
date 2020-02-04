@@ -5,8 +5,8 @@ title = "About"
 
 
 ##### What am I working on
-I'm working on growing the company I started, <a href="https://mainvest.com">MainVest</a>. This takes up most of my time
+I'm working on growing the company I started, <a href="https://mainvest.com">Mainvest</a>.
 
 
-##### Am I available for work outside of MainVest?
-Yes, for a couple days / month. I'm particularly interested in helping non-profits build things on the internet.
+##### Am I available for work outside of Mainvest?
+Not right now.

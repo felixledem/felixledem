@@ -12,7 +12,7 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "default"
   description = "Just a landing page for people who google my name"
-  copyright = "&copy;2018 Ravel Software LLC"
+  copyright = ""
   sidebarAbout = [
     "This landing page is for people who google my name.",
   ]
